@@ -1,0 +1,77 @@
+a {
+	text-decoration: none;
+}
+ul {
+	list-style: none;
+}
+.rednav {
+	color: red;
+}
+.logo {
+	width: 100px;
+}
+li {
+    display: inline-block;
+    width: 100px;
+}
+.p-satauri{
+	font-size: 20px;
+}
+nav {
+	display: inline-block;
+}
+.ricxvi {
+	color: white;
+	background-color: blue;
+	font-size: 48px;
+}
+.tve {
+	    margin-top: 5px;
+}
+.box {
+	display: inline-block;
+	width: 400px;
+}
+.image {
+	width: 300px;
+	margin-bottom: 60px;
+}
+.suratebi {
+	margin: 15px;
+	margin-top: 100px;
+}
+.banner {
+	margin-top: 50px;
+	margin-left: 70px;
+}
+.text {
+	margin-top: 100px;
+    margin-left: 70px;
+    font-size: 24px;
+}
+div { 
+	background-color: #E4E4E4;
+	margin-left: 80px;
+	font-size: 20px;
+	width: 570px;
+    height: 225px;
+    display: inline-block;
+
+}
+.bluenav {
+	color: blue;
+	margin-left: 15px;
+}
+
+.poto {
+	width: 100px;
+	margin-left: 30px;
+}
+.shinaarsi {
+	display: inline-block;
+	width: 300px;
+	margin-left: 40px;
+}
+.poto2 {
+	margin-left: 30px;
+}
